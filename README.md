@@ -8,7 +8,7 @@ The dashboard transforms transaction-level sales data into interactive business 
 
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](images/dashboard.png)
+![Supermarket Sales Dashboard](image/dashboard.png)
 
 ---
 
